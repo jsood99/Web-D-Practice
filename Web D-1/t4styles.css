@@ -1,0 +1,9 @@
+.container
+{
+    background-color: seagreen;
+}
+.col
+{
+    background-color: lightgreen;
+    margin: 10px;
+}

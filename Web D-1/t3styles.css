@@ -1,0 +1,10 @@
+.container
+{
+    background-color: brown;
+}
+
+.column
+{
+    background-color: burlywood;
+    margin:10px;
+}

@@ -1,0 +1,13 @@
+.grid
+{
+    margin-top: 20px;
+    background-color: darkkhaki;
+    padding: 20px;
+}
+
+.column
+{
+    background-color: beige;
+    padding: 10px;
+    margin: 10px;
+}

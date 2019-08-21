@@ -1,0 +1,12 @@
+.container
+{
+    background-color: teal;
+    margin-top: 20px;
+    padding:10px;
+}
+
+.coloumn
+{
+    background-color: lightblue;
+    margin: 10px;
+}
